@@ -55,6 +55,7 @@ Using a portion of the diagnosis name as the query, or with words describing the
 		}
 ]
 ```
+
 ##Matching
 
 ###Filtering
