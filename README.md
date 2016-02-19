@@ -5,6 +5,7 @@ Simple node server to get diagnosis results
 
 Using a portion of the diagnosis name as the query, or with words describing the desired diagnosis. The goal is to take the doctor query and return the best possible subset of diagnoses that match the search.
 
+<img src="https://raw.githubusercontent.com/atneik/Diagnosis/master/public/images/screenshot.png" width="550">
 
 ##API
 ###Search results
