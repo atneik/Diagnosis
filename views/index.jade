@@ -2,5 +2,5 @@ extends layout
 
 block content
   h1= title
-  input#inputBox(onkeyup='getDiagnosisResults()', autocomplete='off')
+  input#inputBox(onkeyup='MainModule.debounceDiagnosisResults()', autocomplete='off')
   div#output
